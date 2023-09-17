@@ -7,8 +7,6 @@ void draw_visualizer(float, int, int);
 void init_visualizer();
 void deinit_visualizer();
 
-typedef void (*hello_t)(void);
-
 typedef void (*draw_t)(float, int, int);
 typedef void (*init_t)(void);
 typedef void (*deinit_t)(void);

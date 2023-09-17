@@ -10,10 +10,6 @@
 
 #include <rlgl.h>
 
-void hello() {
-    printf("asdf");
-}
-
 #define N_WINDOW 1024
 #define NAVG 6
 #define NFFT N_WINDOW
